@@ -5,3 +5,4 @@
 * salt
 ## Instructions
 Mash up the avocado
+* Peel the avocados
